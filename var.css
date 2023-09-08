@@ -1,0 +1,29 @@
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 110;
+    height: 250px;
+  }
+  
+  .center-text{
+
+text-align: center;
+color: brown;
+  }
+ body{
+    background: black;
+ }
+
+ .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
